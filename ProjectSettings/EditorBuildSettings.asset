@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Level 1/Intro/MaInManu.unity
+    guid: 2fff206fb5dfe8f49b3a8349bcb2677b
+  - enabled: 1
+    path: Assets/Scenes/Level 1/Intro/Start.unity
+    guid: bce268e2f513957429fd23da8cc66c43
+  - enabled: 1
+    path: Assets/Scenes/Level 1/Intro/Intro 1.unity
+    guid: 02b88a937f9ec6f44ac46aa21bbaf8de
+  - enabled: 1
+    path: Assets/Scenes/Level 1/Intro/Intro2.unity
+    guid: 0e9f5498676aee34883c2376e05e7ada
+  - enabled: 1
+    path: Assets/Scenes/Level 1/Intro/intro3.unity
+    guid: 71731b60a5af11e4b84e7f6b3818633d
+  - enabled: 1
+    path: Assets/Scenes/Level 1/Intro/Intro4.unity
+    guid: 406fc151775ee3f4a85d42b952c1d471
+  - enabled: 1
+    path: Assets/Scenes/Level 1/Intro/Intro5.unity
+    guid: 5985468913a8249479059b1e8ced40d9
+  - enabled: 1
+    path: Assets/Scenes/Level 1/Intro/Intro6.unity
+    guid: 761f48ecd3685bc4d9041c4efb553947
+  - enabled: 1
+    path: Assets/Scenes/Level 1/Intro/Intro7.unity
+    guid: b2b0933bbf536924288edd06e733b598
+  - enabled: 1
+    path: Assets/Scenes/Level 1/Intro/Intro8.unity
+    guid: 012ff4ec17dbd914287a340d514c0445
+  - enabled: 1
+    path: Assets/Scenes/Level 1/Intro/Game Over.unity
+    guid: 8f4784d23b66f8c48935a0651571be28
+  m_configObjects: {}
